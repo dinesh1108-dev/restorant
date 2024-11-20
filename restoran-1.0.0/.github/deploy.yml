@@ -1,0 +1,28 @@
+project:
+  name: "Restoran - Bootstrap Restaurant Template"
+  description: "A responsive Bootstrap template designed for restaurants."
+  link: "https://htmlcodex.com/bootstrap-restaurant-template"
+  license:
+    type: "Custom"
+    details: "https://htmlcodex.com/license"
+  author:
+    name: "HTML Codex"
+    website: "https://htmlcodex.com"
+    about: "HTML Codex is one of the top creators and publishers of free HTML templates, HTML landing pages, HTML email templates, and HTML snippets in the world."
+    more_info: "https://htmlcodex.com/about-us"
+files:
+  - LICENSE.txt
+  - index.html
+  - assets/
+  - css/
+  - js/
+  - images/
+dependencies:
+  - Bootstrap 5
+  - jQuery
+  - FontAwesome
+  - Owl Carousel
+  - Magnific Popup
+notes:
+  - "Ensure proper attribution if using the free version of the template."
+  - "Check the LICENSE.txt file for usage permissions and restrictions."
